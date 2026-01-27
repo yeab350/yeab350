@@ -1,13 +1,6 @@
 # Hello 👋, I'm Yeab T. Mekasha
 
 <p align="center">
-  <a href="https://yeabtmekasha.netlify.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>
-  <a href="mailto:yeabtsegaye350@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yeab-tsegaye-25765724b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/yeab350"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-0B0F14?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-<p align="center">
   <b>Full-Stack Developer · Web Designer · Software Engineering Student</b>
 </p>
 
@@ -59,9 +52,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeab350&layout=compact&theme=transparent" height="160" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yeab350&theme=transparent" height="160" />
-</p>
-
----
 
