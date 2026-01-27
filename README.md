@@ -65,10 +65,3 @@
 
 ---
 
-## Pinned projects
-
-Pin repos on your GitHub profile:
-1. Go to your profile
-2. Scroll to **Pinned**
-3. Click **Customize pins**
-
