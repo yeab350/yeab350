@@ -52,7 +52,7 @@
 
 ---
 
-## GitHub Stats (optional)
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yeab350&show_icons=true&theme=transparent" height="160" />
